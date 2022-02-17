@@ -50,60 +50,10 @@ Team-CMD Semi-Hackaton FE:PAGING A조
 
 ## ⌨**나의** **개발 과정**
 
----
-
-### 캐릭터 페이지
-
----
-
-- 2022.1.24
-    - 캐릭터 페이지 디자인 간략하게 만들기
-    - 캐릭터 이미지 클릭 시 모달창 구현
-- 2022.1.25
-    - 모달창에 클릭한 캐릭터의 이미지와 정보, 캐릭터의 명장면 클립 구현
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca956edc-a49a-4b3e-80e1-fcf79b9d14ac/Untitled.png)
-        
-- 2022.1.26
-    - 캐릭터 페이지 디자인 다듬기
-    - 영화 데이터 JSON으로 만들기
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5a76cc8-cfac-4415-afe7-1c3ac7bf3315/Untitled.png)
-        
-
-### 영화 페이지
-
----
-
-- 2022.1.27
-    - 영화 페이지 디자인 간단히
-    - JSON 데이터를 읽어서 개봉한 영화, 개봉예정영화, 드라마 같이 분류가 달라질때마다 영화 포스터들이 다르게 생성할 수 있도록 기능 구현
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/111633e0-3826-441d-b616-cdd97a4b0dfb/Untitled.png)
-    
-- 2022.1.28
-    - 개봉 완료 영화, 개봉 예정 영화, 드라마 슬라이드 구현
-    - 슬라이드 드래그 이벤트 구현
-        
-        [영화 페이지 드래그 이벤트 구현.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18c5cfdc-c449-4cbd-8a94-c0f586e3816f/영화_페이지_드래그_이벤트_구현.mp4)
-        
-- 2022.1.30
-    - 영화/드라마 포스터 마다 모달 이벤트 구현
-        - 모달 안에 포스터, 정보 넣기
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8063a96c-4465-44bf-a2eb-0d1eaf7c988e/Untitled.png)
-        
-    - 모달 디자인 조정, 화면 스크롤한 위치의 가운데에서 모달이 나오는 기능
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64dd8586-99ec-4cc7-9fee-c419f116ea89/Untitled.png)
-        
-- 2022.2.04
-    - 영화 포스터 밑에 영화 제목을 나타나게 함
-    - 모달 클릭 이벤트를 더블클릭으로 바꾸어 영화를 드래그하고 놓을때마다 모달이 생성되는 것을 수정
+https://atom-dryer-ac5.notion.site/857ec69d4c63488db2aabe66339524e2
 
 ## 💥 아쉽거나 **힘들었던 부분**
 
----
 
 - JSON을 활용해서 캐릭터 소개 모달창마다 이미지와 정보, 클립 넣어주는 과정
     - JSON을 활용해서 작업해본적이 없었기 때문
@@ -115,7 +65,6 @@ Team-CMD Semi-Hackaton FE:PAGING A조
 
 ## 😀이 프로젝트로 얻은 점
 
----
 
 - git을 활용해서 협업하는 방법을 배우고 사용할 수 있게 되었다.
 - JSON을 활용해 데이터를 하드 코딩 안하고 변경하는 방법을 알게 되었다.
